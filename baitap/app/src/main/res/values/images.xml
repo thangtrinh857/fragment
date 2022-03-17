@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>flower_1</item>
+        <item>flower_2</item>
+        <item>flower_3</item>
+    </string-array>
+    <string-array name="animals">
+        <item>animal_1</item>
+        <item>animal_2</item>
+        <item>animal_3</item>
+    </string-array>
+    <string-array name="foods">
+        <item>food_1</item>
+        <item>food_2</item>
+        <item>food_3</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
